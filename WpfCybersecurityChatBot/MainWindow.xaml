@@ -9,6 +9,7 @@
     <Grid>
         <Image HorizontalAlignment="Center" Height="112" Margin="0,10,0,0" VerticalAlignment="Top" Width="183" Source="/cybersecurity_final.png"/>
         <Label Content="Cyber Chat" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Arial Black"/>
+        <StackPanel Margin="0,165,0,53"/>
 
 
     </Grid>
