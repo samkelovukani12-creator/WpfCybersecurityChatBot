@@ -8,8 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Image HorizontalAlignment="Center" Height="112" Margin="0,10,0,0" VerticalAlignment="Top" Width="183" Source="/cybersecurity_final.png"/>
-        <Label Content="Cyber Chat" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Arial Black"/>
-        <StackPanel Margin="0,165,0,53"/>
+        <Label Content="Cyber Chat" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Arial Black"/>
+        <StackPanel Margin="0,165,0,67"/>
+        <TextBox HorizontalAlignment="Left" Margin="55,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="466" Height="26"/>
 
 
     </Grid>
