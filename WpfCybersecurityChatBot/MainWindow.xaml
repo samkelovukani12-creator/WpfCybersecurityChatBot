@@ -11,6 +11,7 @@
         <Label Content="Cyber Chat" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Arial Black"/>
         <StackPanel Margin="0,165,0,67"/>
         <TextBox HorizontalAlignment="Left" Margin="55,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="466" Height="26"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="557,386,0,0" VerticalAlignment="Top" Width="75" Height="26"/>
 
 
     </Grid>
