@@ -9,12 +9,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Bot.jpg" />
+    <None Remove="ChatBot.png" />
     <None Remove="cybersecurity_final.png" />
     <None Remove="image_20261014_190553.jpg" />
     <None Remove="User.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Bot.jpg" />
+    <Resource Include="ChatBot.png" />
     <Resource Include="cybersecurity_final.png" />
     <Resource Include="image_20261014_190553.jpg" />
     <Resource Include="User.jpg" />

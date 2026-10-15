@@ -12,8 +12,12 @@
         <StackPanel Margin="0,165,0,67">
 
             <Grid>
-            <Image Height="33" Width="33" Source="/User.jpg" Margin="55,0,0,0" HorizontalAlignment="Right"/>
+                <Image Height="35" Width="35" Source="/User.jpg" Margin="55,0,0,0" HorizontalAlignment="Right"/>
                 <Label Content="User" HorizontalAlignment="Right" Margin="39"/>
+            </Grid>
+            <Grid>
+                <Image Height="35" Width="35" Source="/ChatBot.png" Margin="0,0,0,0" HorizontalAlignment="Left"/>
+                <Label Content="ChatBot" HorizontalAlignment="Left" Margin="39"/>
             </Grid>
         </StackPanel>
         <TextBox HorizontalAlignment="Left" Margin="55,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="466" Height="26"/>
