@@ -11,11 +11,13 @@
   <ItemGroup>
     <None Remove="cybersecurity_final.png" />
     <None Remove="image_20261014_190553.jpg" />
+    <None Remove="User.jpg" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="cybersecurity_final.png" />
     <Resource Include="image_20261014_190553.jpg" />
+    <Resource Include="User.jpg" />
   </ItemGroup>
 
 </Project>
