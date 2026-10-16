@@ -17,11 +17,21 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Windows.Extensions" Version="10.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="Bot.jpg" />
     <Resource Include="ChatBot.png" />
     <Resource Include="cybersecurity_final.png" />
     <Resource Include="image_20261014_190553.jpg" />
     <Resource Include="User.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Startup.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
